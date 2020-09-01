@@ -9,11 +9,11 @@ author: Huyen Nguyen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Chuyen pho thong Anh khong nang khieu"
+  About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - Beautiful Jekyll: "https://tinhte.vn/thread/toyota-yaris-cross-ra-mat-thiet-ke-an-tuong-2-loai-dong-co-gia-tu-17-000.3183693"
+    - Learn markdown: "https://genk.vn/voi-gia-ban-len-toi-gan-114-ty-dong-con-cuu-dat-hon-ca-sieu-xe-ferrari-nay-co-gi-dac-biet-20200901175033163.chn"
+  Author's home: "https://hulinary.github.io/"
 
 # --- Logo --- #
 
@@ -34,10 +34,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "logha17@gmail.com"
+  facebook: Long Hà
+  github: hulinary
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -46,7 +46,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+ telephone: +978844124
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -71,7 +71,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://hulinary.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -176,7 +176,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Saigon"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
