@@ -1,7 +1,7 @@
 # --- Required options --- #
 
 # Name of website
-title: jjjj
+title: Hulinary
 
 # Your name to show in the footer
 author: Huyen Nguyen
@@ -46,7 +46,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
- telephone: +978844124
+  telephone: +978844124
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -218,4 +218,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
