@@ -1,15 +1,15 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Huninary
 
 # Your name to show in the footer
-author: Some Person
+author: Huyen Nguyen
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Chuyen pho thong Anh khong nang khieu"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
