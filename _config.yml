@@ -11,15 +11,15 @@ author: Huyen Nguyen
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://tinhte.vn/thread/toyota-yaris-cross-ra-mat-thiet-ke-an-tuong-2-loai-dong-co-gia-tu-17-000.3183693"
-    - Learn markdown: "https://genk.vn/voi-gia-ban-len-toi-gan-114-ty-dong-con-cuu-dat-hon-ca-sieu-xe-ferrari-nay-co-gi-dac-biet-20200901175033163.chn"
+    - Mô tả đường dẫn 1: "https://tinhte.vn/thread/toyota-yaris-cross-ra-mat-thiet-ke-an-tuong-2-loai-dong-co-gia-tu-17-000.3183693"
+    - Mô tả đường dẫn 2: "https://genk.vn/voi-gia-ban-len-toi-gan-114-ty-dong-con-cuu-dat-hon-ca-sieu-xe-ferrari-nay-co-gi-dac-biet-20200901175033163.chn"
   Author's home: "https://hulinary.github.io/"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar-icon.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -58,7 +58,7 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
+# rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
